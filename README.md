@@ -19,8 +19,8 @@ Want to build APIs in node?
 
 ```sh
 git clone https://github.com/Majid-Sohail/node-express-mongoose-boilerplate.git
+cd node-express-mongoose-boilerplate
 npm install
-cd project
 npm start
 ```
 
