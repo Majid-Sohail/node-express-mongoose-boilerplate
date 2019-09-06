@@ -7,6 +7,7 @@ Table of contents:
 - [Boilerplate](#boilerplate)
 - [Install](#install)
 - [License](#license)
+- [Routes](#routes)
 
 ## Boilerplate
 
@@ -24,8 +25,10 @@ npm install
 npm start
 ```
 
-Basic APIs Routes
+## Routes
+Signup Route [http://localhost:3000/api/v1/users/sign-up](http://localhost:3000/api/v1/users/sign-up)
 Login Route [http://localhost:3000/api/v1/users/login](http://localhost:3000/api/v1/users/login)
+Logout Route [http://localhost:3000/api/v1/users/logout](http://localhost:3000/api/v1/users/logout)
 
 ## License
 
