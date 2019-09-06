@@ -6,14 +6,15 @@ Table of contents:
 
 - [Boilerplate](#boilerplate)
 - [Install](#install)
-- [License](#license)
 - [Routes](#routes)
+- [License](#license)
 
 ## Boilerplate
 
 Want to build APIs in node?
 
 * Clone the repository.
+* Install Modules.
 * Start Implementing the APIs.
 
 ## Install
