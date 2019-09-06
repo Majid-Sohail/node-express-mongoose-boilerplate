@@ -26,9 +26,9 @@ npm start
 ```
 
 ## Routes
-* Signup Route [http://localhost:3000/api/v1/users/sign-up](http://localhost:3000/api/v1/users/sign-up)
-* Login Route [http://localhost:3000/api/v1/users/login](http://localhost:3000/api/v1/users/login)
-* Logout Route [http://localhost:3000/api/v1/users/logout](http://localhost:3000/api/v1/users/logout)
+* Signup Route (POST) [http://localhost:3000/api/v1/users/sign-up](http://localhost:3000/api/v1/users/sign-up)
+* Login Route (POST) [http://localhost:3000/api/v1/users/login](http://localhost:3000/api/v1/users/login)
+* Logout Route (GET) [http://localhost:3000/api/v1/users/logout](http://localhost:3000/api/v1/users/logout)
 
 ## License
 
