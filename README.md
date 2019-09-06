@@ -24,7 +24,8 @@ npm install
 npm start
 ```
 
-Then visit [http://localhost:3000/](http://localhost:3000/)
+Basic APIs Routes
+[http://localhost:3000/api/v1/users/login](http://localhost:3000/api/v1/users/login
 
 ## License
 
