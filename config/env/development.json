@@ -1,0 +1,44 @@
+{
+  "appTitle": "Node-Express-Mongoose-Boilerplate",
+  "PORT": 3000,
+  "mongodb": {
+    "host": "mongodb://localhost:27017/",
+    "db_name": "nodeboilerplate",
+    "credentials": {
+      "username": "",
+      "password": ""
+    }
+  },
+  "session": {
+    "secret": "*&NodeJS&#"
+  },
+  "mailer": {
+    "options": {
+      "service": "sendgrid",
+      "auth": {
+        "user": "",
+        "pass": "",
+        "host": "smtp.sendgrid.net",
+        "port": 465,
+        "secure": true
+      }
+    },
+    "fromAddress": "info@info.com"
+  },
+  "confirmationCodeLength": 4,
+  "forgetPassCodeExpiryMinutes": 4320,
+  "confirmAcctCodeExpiryMinutes": 4320,
+  "postedJobApplicantsIntervalInMinutes": 5,
+  "aws": {
+    "s3": {
+      "secretAccessKey": "",
+      "accessKeyId": "",
+      "region": "ap-southeast-1",
+      "bucket": "",
+      "merchantTypeSmallResizeDirectory": "images/100X100/",
+      "merchantTypeMediumResizeDirectory": "images/300X300/",
+      "merchantTypeLargeResizeDirectory": "images/1000X1000/"
+    }
+  },
+  "googleMapsAPI": ""
+}

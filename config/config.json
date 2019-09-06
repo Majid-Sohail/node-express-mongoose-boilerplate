@@ -1,0 +1,10 @@
+{
+  "enableMongoDebugging": false,
+  "deviceTypes": [
+    "web"
+  ],
+  "accountRoles": [0],
+  "accountStatuses": [0, 1, 2, 3],
+  "contactTypes": [0, 1],
+  "accessTypes": [0, 1]
+}

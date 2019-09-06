@@ -1,0 +1,67 @@
+{
+  "1000": {
+    "msg": {
+      "EN": "Please enter name."
+    }
+  },
+  "1001": {
+    "msg": {
+      "EN": "Please enter valid name."
+    }
+  },
+  "1002": {
+    "msg": {
+      "EN": "Please enter email."
+    }
+  },
+  "1003": {
+    "msg": {
+      "EN": "Please enter valid email."
+    }
+  },
+  "1004": {
+    "msg": {
+      "EN": "Please enter password."
+    }
+  },
+  "1005": {
+    "msg": {
+      "EN": "Password must be of at least 8 characters long."
+    }
+  },
+  "1006": {
+    "msg": {
+      "EN": "An error occurred during user login."
+    }
+  },
+  "1007": {
+    "msg": {
+      "EN": "An error occurred during user account creation."
+    }
+  },
+  "1008": {
+    "msg": {
+      "EN": "An error occurred during sign up."
+    }
+  },
+  "1009": {
+    "msg": {
+      "EN": "An error occurred during sign up."
+    }
+  },
+  "1010": {
+    "msg": {
+      "EN": "User account with this email already exists."
+    }
+  },
+  "1011": {
+    "msg": {
+      "EN": "An error occurred during checking account with same email."
+    }
+  },
+  "1012": {
+    "msg": {
+      "EN": "An error occurred during user logout."
+    }
+  }
+}
