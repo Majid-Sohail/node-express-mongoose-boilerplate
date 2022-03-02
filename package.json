@@ -40,7 +40,7 @@
     "jshint-stylish": "^2.2.1",
     "json2csv": "^4.1.2",
     "json5": "^0.5.1",
-    "karma": "^4.2.0",
+    "karma": "^6.3.16",
     "lodash": "^4.17.4",
     "md5": "^2.2.1",
     "method-override": "~2.3.5",
